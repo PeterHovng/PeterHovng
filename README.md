@@ -4,5 +4,4 @@
 - How to reach me: leehoanggiadai@gmail.com
 # 🍪 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=PeterHovng&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PeterHovng&theme=dark&hide_border=false)<br/>
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
